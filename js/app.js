@@ -39,6 +39,7 @@ const marvel = {
           <div class="col-md-4">
           
             <img src="${imageUrl}" alt="${hero.name}" class="img-thumbnail" data-toggle="modal" data-target="#hero-modal-${hero.id}">
+          
           <a href="${urlHero}" target="_blank">
           <h3 class="title">${hero.name}</h3>
           </a>
