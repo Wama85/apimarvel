@@ -1,0 +1,19 @@
+img.img-thumbnail {
+  width: 80%;
+  height: 80%;
+}
+#log{
+  color:black;
+}
+#nombre{
+  width: 20%;
+}
+a .title{
+ color: rgb(10, 10, 10);
+ text-align: center;
+ 
+}
+a .title:hover{
+  color: brown;
+ 
+}
